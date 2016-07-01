@@ -1,0 +1,19 @@
+gui.autologin.password=Your password
+gui.autologin.password.again=Your password (Again)
+gui.autologin.newpassword=Your new password
+gui.autologin.newpassword.again=Your new password (Again)
+gui.autologin.connect=Connect
+gui.autologin.badpassword=The two passwords aren't the same
+gui.autologin.badpassword2=The two passwords aren't the same or current password is false
+gui.autologin.cancel=Cancel
+gui.autologin.defaultpass=Default password
+gui.autologin.currentpass=Current password
+gui.autologin.change.defaultpass=Change
+gui.autologin.change.currentpass=Change
+gui.autologin.change.currentpass.cmd=Change with command
+gui.autologin.change.usedefaultpass=Use default password
+gui.autologin.change.password.done=The password of the server SERVERIP has been changed
+gui.autologin.change.password.default.done=The default password has been changed
+
+key.autologin.categories=AutoLogin
+key.autologin.loginOption=Connection Options
