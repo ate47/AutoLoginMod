@@ -1,0 +1,12 @@
+[
+{
+  "modid": "autologin",
+  "name": "AutoLogin 2",
+  "description": "I haven't your time.",
+  "version": "2.0",
+  "mcversion": "1.8.8",
+  "url": "https://minecraft.curseforge.com/projects/the-autologin-mod-for-authme-server",
+  "authorList": ["ATE47"],
+  "logoFile": "logo.png"
+}
+]
